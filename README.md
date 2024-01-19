@@ -4,4 +4,5 @@ As a Data Analyst Intern at PrepInsta, you will be an integral part of our dynam
  week1: https://docs.google.com/spreadsheets/d/1rJxxt0RzA1Y2YFlxGCX9xj95vOHdkKErLT8ki20kXDY/edit?usp=sharing
 
  week2: https://colab.research.google.com/drive/1r-gB_eYpVY6QgvFMS7q5AnH3_MM9dehp?usp=sharing
- 
+
+ week3: https://colab.research.google.com/drive/12f-8CYeFi5RPfEQjo8RUCX2SkV0Km_Qq
