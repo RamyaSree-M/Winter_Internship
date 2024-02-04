@@ -6,3 +6,5 @@ As a Data Analyst Intern at PrepInsta, you will be an integral part of our dynam
  week2: https://colab.research.google.com/drive/1r-gB_eYpVY6QgvFMS7q5AnH3_MM9dehp?usp=sharing
 
  week3: https://colab.research.google.com/drive/12f-8CYeFi5RPfEQjo8RUCX2SkV0Km_Qq
+
+ week4: https://colab.research.google.com/drive/1Fj5rRrMgclN55rBjvbd6Ls90NUvatcol?usp=sharing
